@@ -1,22 +1,17 @@
-# 📊 Project: Complex API 2
+# Fetch Dog Photo & Advice Project!
 
-### Goal: Use data returned from one api to make a request to another api and display the data returned
+This project will allow users to fetch a dog photo, the breed of the dog, and also fetch another API to give advice for the dog!
 
-### How to submit your code for review:
+## How It's Made:
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+**Tech used:**: HTML, CSS, and JavaScript
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+I used html for the markup, css for the styling, andI used Javascript for the logic of this project.
+
+## Lessons Learned:
+
+I learned how to interact 2 different APIs and output 1 result, and I learned how to get data from an API URL, and use that information on the frontend when the information isn't present in the API. Ex: I took the breed of the dog, from the URL because the APi did not have the corresponding information for the dog breed, that i needed! 
+
+## Image of Project:
+
+![Dogadviceproject image](complexapi1.jpg)
