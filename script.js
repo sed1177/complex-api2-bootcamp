@@ -20,7 +20,7 @@ button.addEventListener('click', getDogAndAdvice);
 function getDogAndAdvice() {
 output.innerText = "Fetching a random dog photo...";
 
-let dogAPI = 'https://dog.ceo/api/breeds/image/random';
+let dogAPI = 'https://dog.ceo/api/breeds/image/random?';
 let adviceAPI = 'https://api.adviceslip.com/advice';
 let breed = '';
 
